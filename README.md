@@ -1,7 +1,7 @@
 # TODO
 
-- [] Complete Education
-- [] Complete Skills section
+- [ ] Complete Education
+- [ ] Complete Skills section
 - [x] complete Project Section
-- [] Index to API
-- [] Code Clean uo
+- [ ] Index to API
+- [ ] Code Clean uo
